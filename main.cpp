@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
 
-    cout << "My name is sufyan ali " << endl;
     cout << "Push to the Github " <<  endl;
+    cout << "Pushing the main.cpp file to github " <<  endl;
  
     return 0;
 }
